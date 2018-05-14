@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "Angular.ng-template",
+    "CoenraadS.bracket-pair-colorizer",
+    "EditorConfig.EditorConfig",
+    "Mikael.Angular-BeastCode",
+    "PeterJausovec.vscode-docker",
+    "christian-kohler.path-intellisense",
+    "eamodio.gitlens",
+    "eg2.tslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.code-runner",
+    "formulahendry.terminal",
+    "joelday.docthis",
+    "johnpapa.angular-essentials",
+    "johnpapa.Angular2",
+    "johnpapa.winteriscoming",
+    "kisstkondoros.vscode-codemetrics",
+    "msjsdiag.debugger-for-chrome",
+    "natewallace.angular2-inline"
+  ]
+}
